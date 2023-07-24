@@ -26,7 +26,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/UkSB2scMDy.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
-Twitter01 is a basic twitter app to read your tweets.
+Twitter is a basic twitter app to read your tweets.
 
 Time spent: **10** hours spent in total
 
